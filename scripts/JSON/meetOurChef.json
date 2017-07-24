@@ -1,0 +1,19 @@
+{
+    "heading": "Our Chef",
+    "content":{
+        "tag": "div",
+        "type": "description",
+        "children":{
+            "tag": "p",
+            "item": [
+                "A quality executive chef knows so much more than masterful cuisine. It’s a combination of culinary expertise, planning and organizational skills,and good business sense. Furthermore, it’s a commitment to excellence in not only food quality, but also in customer service. All of these are precisely the assets I bring to the table in offering my professional services to you.",
+                "Currently I am the Executive Chef for Michael Anthony’s Catering. We plan and execute exclusive social events for as few as two or as many as 900 guests. In performing that work I have demonstrated skill in event coordination, menu planning, and staff leadership. In nearly every position throughout my career I have trained my staff the essential skills needed to deliver exceptional service.",
+                "I can offer you vision, whether that be in creating a memory or planning an event. Our innovative menu of exquisite foods, breads, pastries, and desserts will astonish your guests.",
+                "My resume details extensive training in New York, Italy, Paris, and Switzerland. I am thoroughly knowledgeable regarding various aspects of the culinary arts: food and wine, pastry, chocolate and confections.",
+                "What you’ll find is that I am exceptionally easy to work with. My philosophy in executing any type of culinary event is that nothing the client requests is ever a problem and I will go the extra mile to make your event memorable This is the reason I have developed such a strong reputation in this industry. Many of my greatest accomplishments professionally have been a result of my professional reputation preceding me.",
+                "Should you find a need for exceptional culinary services, I would like to be the first person you contact. Thank you for your consideration"
+            ]
+        }
+    },
+    "signature": "<h1 class = 'heading'>Sincerely</h1><h1 class = 'heading'>Michael Anthony</h1>"
+}

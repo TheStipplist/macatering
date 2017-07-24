@@ -1,0 +1,16 @@
+{
+    "heading":"Private Chef!",
+    "content":{
+        "tag": "div",
+        "type": "description",
+        "children":{
+            "tag":"p",
+            "item":[
+                "Imagine having your own classically trained private chef just for the night.",
+                "Imagine the convenience of going out, but with the intimacy of your own home.",
+                "Michael Anthony’s mixes relaxed style with complete professionalism and versatility in your kitchen.",
+                "Be treated like a guest in your own home with waiter service for you and your dining companions. Whether it’s a 4 star 8 course tasting menu or a delicious and healthy leave behind meal for you and your family, Michael Anthony’s meals always leave an impression."
+            ]
+        }
+    }
+}

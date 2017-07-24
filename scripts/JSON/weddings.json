@@ -1,0 +1,17 @@
+{
+    "heading": "Weddings",
+    "header": "<img src = images/view/weddings.jpg id = weddings-header-image>",
+    "content":{
+        "tag": "div",
+        "type": "description",
+        "heading": "Weddings Catering and Receptions",
+        "children":{
+            "tag": "p",
+            "item": [
+            "We just love weddings!  The beautiful bride, the nervous groom, the fantastic food and decor!  Memories to last a lifetime, made in a whirlwind of love and frenzy!  Michael Anthony’s will make this special day even more so…",
+            "Your wedding day is one of the most important days of your life, which is why you should trust Michael Anthony’s for everything you’ll need. As your wedding caterer, we will handle every detail of your wedding reception."
+        ]
+    },
+    "menu": true
+    }
+}

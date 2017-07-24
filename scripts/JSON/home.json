@@ -1,0 +1,19 @@
+{
+    "heading":"Premier Catering and Event Management",
+    "content":{
+        "tag": "div",
+        "type": "description",
+        "children":{
+            "tag": "p",
+            "item": [
+                "Michael Anthony’s Catering provides full service food catering, party planning and event management to clients in New York and beyond. Our catering company, which is ever changing, is rapidly becoming the area’s premier high-end catering firm. We specialize in catering fantastic weddings, wonderful cocktail parties, and outdoor events. Our corporate event planning specialists are the best in the business. They secure locations, arrange entertainment, and of course, suggest menus to complement your event.",
+                "Event management, party planning, and wedding catering, Michael Anthony’s will do more to ensure the success of your special event than any other company!",
+                "Our staff consists of the finest catering professionals from the area. With experience in all aspects of catering, events management, and dealing with logistical challenges, there is nothing we cannot do. Whether your event is based in New York City, Long Island, the Hamptons or anywhere."
+            ]
+        }
+    },
+    "button":{
+        "link": "Expectations",
+        "text": "Expectations"
+    }
+}
