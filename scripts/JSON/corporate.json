@@ -1,0 +1,14 @@
+{
+    "heading":"Corporate",
+    "header": "<img src = images/view/corporate.jpg id = corporate-header-image>",
+    "content":{
+        "tag":"div",
+        "type": "description",
+        "children":{
+            "tag": "p",
+            "item": [
+                "Michael Anthony’s means business. From the board room to the back room, “We do it all” for your business, let Michael Anthony’s serve as your event planning specialist, your party planner, and your corporate catering partner. When attention to detail and focus are important, we are your catering company. When your corporate event planning simply must be the best, we are your event planner. When it must be on time, no matter what, we are your corporate catering specialist. Guaranteed!"
+            ]
+        }
+    }
+}

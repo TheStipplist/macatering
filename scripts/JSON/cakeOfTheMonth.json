@@ -1,0 +1,16 @@
+{
+    "heading":"Cake of the Month",
+    "header":"<p>Michael Anthony’s Catering brings their unique expertise to the Gourmet Cake of the Month Club. Each month you will receive a delicious, mouth-watering cake created by our Executive Chef, Michael D’Onofrio. Each cake serves 8-10 people and delivery is free on Long Island. We offer 3, 6, and 12 month clubs and you choose which months you would like the gourmet cake delivered. If you are sending this as a gift, we will send a gift announcement to the lucky recipient by U.S. mail or e-mail.</p><img class='image' src='images/view/cakeOfTheMonth.jpg'>",
+    "content":{
+        "tag": "ul",
+        "type": "list",
+        "children":{
+            "tag": "li",
+            "item":[
+                "3 Month Club - $44.95 per month",
+                "6 Month Club - $44.95 per month",
+                "12 Month Club - $44.95 per month"
+            ]
+        }     
+    }
+}

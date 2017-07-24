@@ -1,0 +1,14 @@
+{
+    "heading":"Theme Events",
+    "header": "<img src = images/view/themeEvents.jpg>",
+    "content":{
+        "tag": "div",
+        "type": "description",
+        "children":{
+            "tag": "p",
+            "item": [
+                "We are constantly updating our menus, and whatever your need may be from barbecue catering to cocktail party planning, from clam bake to banquet planning, from party rental to an Island reception –Michael Anthony’s can provide the catering menu you need. For catering events from New York City to the Hamptons."
+            ]
+        }
+    }
+}

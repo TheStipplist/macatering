@@ -1,0 +1,29 @@
+{
+    "heading": "Expectations",
+    "header": "<p>Our entire team will be at your service making your Event a simple, pleasant, and worry-free day. We will handle every detail of the catering.Your event deserves the best planning, and Michael Anthony’s will ensure that your Event is flawless.</p><img src='images/view/expectations.jpg' class = 'image'>",
+    "content":{
+        "tag": "ul",
+        "type": "list",
+        "heading": "What to Expect",
+        "children":{
+            "tag": "li",
+            "item": [
+                "Fantastic, Creative Food, made with great care Unlimited Planning, Unlimited Site Visits, Unlimited Consultation",
+                "Custom Cakes",
+                "China , Glassware, and Flatware – hundreds of styles and colors",
+                "Linens, Napkins, Overlays – from the standards to one of a kind",
+                "Tents – from simple tents to protect from the weather to one of a kind tents.",
+                "Tables and Chairs – several choices from backyard to ballroom and everything in between",
+                "Kitchen equipment to prepare onsite, on the beach, in the garage or over the pool…",
+                "Staff – from captains and servers to chefs and utility worker professionals for everything you need from load-in to load-out",
+                "Portable Bathrooms, Generators, Heating and Air-conditioning, lighting, audio and video.",
+                "Anything else associated with your event that you need help with!",
+                "Really nice people that truly care that your event is special, memorable, and stress-free…"
+            ]
+        }
+    },
+    "button":{
+        "link": "ourChef",
+        "text": "Our Chef"
+    }
+}
